@@ -1,0 +1,29 @@
+# Gradle
+.gradle/
+build/
+
+# Java build outputs
+out/
+bin/
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
